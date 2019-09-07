@@ -28,7 +28,7 @@ http://crdShop.ru/                  | Forum/Shop |         | RU
 https://demonForums.net             | Forum      |         |                                                       
 https://donux.pw/login              | Forum      | y       |                                                       
 https://y3pggjcimtcglaon.onion/     | Forum      | n       | Darknet mirror of https://darkmoney.vc/, RU                                                      
-https://fraudstercrew.in/           | Forum      | n       | Anti-Adblocker Splash                                               
+https://forum.blackhatindia.ru/     | Forum      | n       | Anti-Adblocker Splash                                               
 http://horux.ng                     | Shop       | n       |                                                       
 https://www.nulled.to/              | Forum      | n       |                                                       
 https://www.olux.to/                | Shop       |         |                                                       
